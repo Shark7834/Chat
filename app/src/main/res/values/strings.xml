@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shark\'s chat</string>
+    <string name="hint_str">Input message:</string>
+    <string name="send_btn_name">Send</string>
+    <string name="welcome_str">Welcome to the Shark\'s chat!</string>
+    <string name="enter_name_str">Enter your username : </string>
+    <string name="enter_btn_str">Enter</string>
+</resources>
